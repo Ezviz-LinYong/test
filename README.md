@@ -1,14 +1,14 @@
 README
 ======
-#1.简介
+1.简介
 ----
 UIKit，是基于萤石开放平台OpenSDK封装的UI组件，使用过程中不必学习专业的业务概念，更不用调用繁琐的接口，能够以极简的嵌入方式，快速在您的应用中集成视频功能。UIKit覆盖的平台包含：iOS、Android、H5、Web、ActiveX(IE)。
 
-#2.创建应用
+2.创建应用
 -----
 首先，你需要在控制面板中申请Appkey。请参考[申请Appkey]( https://open.ys7.com/view/app/app_edit.html)。
 
-#3.安装SDK
+3.安装SDK
 -----
 下载SDK:[官方下载](https://)或者[github下载](http://)。
 
@@ -22,7 +22,8 @@ UIKit，是基于萤石开放平台OpenSDK封装的UI组件，使用过程中不
 
 **5.引入系统库如图：![](./image-2.png)**
 
-#4.示例
+
+4.示例
 -----
 	[EZUIKit initWithAppKey:appKey];
 	[EZUIKit setAccessToken:accessToken];
