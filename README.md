@@ -14,13 +14,16 @@ UIKit，是基于萤石开放平台OpenSDK封装的UI组件，使用过程中不
 
 **1.创建一个新的XCode项目。**
 
-**2.修改target配置项Build Settings标签下的Other Linker Flags 值为：-ObjC。如图：![](./image-1.png)**
+**2.修改target配置项Build Settings标签下的Other Linker Flags 值为：-ObjC。如图：**
+![](./image-1.png)
 
 **3.导入下载包中EZUIKit文件夹下的所有库文件以及公开头文件。**
 
-**4.导入openssl库文件以及公开头文件如图：![](./image-4.png)**
+**4.导入openssl库文件以及公开头文件如图：**
+![](./image-4.png)
 
-**5.引入系统库如图：![](./image-2.png)**
+**5.引入系统库如图：**
+![](./image-2.png)
 
 
 4.示例
