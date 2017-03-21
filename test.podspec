@@ -7,4 +7,6 @@ Pod::Spec.new do |s|
   s.authors  = {'maomaotou' => 'linyong3@hikvision.com'}
   s.source   = {:git => 'https://github.com/maomaotou/test.git',:tag => s.version,:submodules => true}
   s.requires_arc = true
+  s.platform = :ios
+  s.source_files = 'test/demo'
 end
