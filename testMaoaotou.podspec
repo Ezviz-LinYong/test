@@ -8,5 +8,5 @@ Pod::Spec.new do |s|
   s.source   = {:git => 'https://github.com/maomaotou/test.git',:tag => s.version,:submodules => true}
   s.requires_arc = true
   s.platform = :ios,'8.0'
-  s.source_files = 'demo/*.{h,m}'
+  s.source_files = 'demo/*.{h,m,a}'
 end
